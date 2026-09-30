@@ -1,30 +1,30 @@
-Hey, I'm Ayush 👋
+# Hey, I'm Ayush 👋
 
 Computer science student.
 
-I like programming, math, and figuring out how computers work.
+Mostly into C, C++, math, and Linux.
 
-Most of the time I'm just:
+## What I'm into
 
-making stuff
-breaking stuff
-fixing it
-learning something new
-What I'm into
-C / C++
-Data Structures & Algorithms
-Systems & Low-Level Programming
-Mathematics
-AI / ML
-Linux
-Tools & Technologies
+* C / C++
+* Data Structures & Algorithms
+* Low-level programming
+* Mathematics
+* AI / ML
+* Linux
 
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,linux,git,cmake,vscode" /> </p>
+## Tools
 
-Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,linux,git,cmake,vscode" />
+</p>
 
-I mostly build things to learn, especially projects that make me dig into how things work under the hood.
+## Projects
 
-Check out my repositories →
+A bunch of things I've made while learning.
+
+**[Check out my repositories →](https://github.com/)**
+
+---
 
 Just learning and building things I find interesting.
